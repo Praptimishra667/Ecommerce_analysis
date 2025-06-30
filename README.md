@@ -15,11 +15,7 @@ This project helps:
 
 ## 🎯 Project Highlights
 
-![Highlights](
 
-![Screenshot 2025-06-28 162631](https://github.com/user-attachments/assets/2d00c45e-3f39-4faa-85ab-53ef1f87e3b9)
-
-)
 
 - Created interactive dashboard to track and analyze online sales data  
 - Used complex parameters to drill down in worksheets with filters and slicers  
@@ -85,7 +81,7 @@ Top 3:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./Assets/Screenshot%202025-06-28%20162631.png)
+![Dashboard Preview](https://github.com/user-attachments/assets/2d00c45e-3f39-4faa-85ab-53ef1f87e3b9)
 
 ---
 
